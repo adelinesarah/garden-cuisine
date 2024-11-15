@@ -1,0 +1,33 @@
+.garden-cuisine-regular {
+	font-family: "Bubblegum Sans", sans-serif;
+	font-weight: 400;
+	font-size: 100px;
+	font-style: normal;
+}
+
+body {
+	color: #626a39;
+	background-color: #f2ffe8;
+}
+
+h1 {
+	font-size: 60px;
+	padding: 15px;
+}
+
+.logo {
+	width: 200px;
+}
+
+.btn {
+	background-color: #7cb27d;
+	color: #000000;
+}
+.btn:hover {
+	background-color: #7cb27d;
+	color: #000000;
+}
+
+.menuFootNote {
+	font-size: 12px;
+}
